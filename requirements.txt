@@ -11,4 +11,4 @@ pyyaml>=4.2b1
 nltk==3.5 
 chatterbot-corpus==1.2.0
 python-dateutil<2.8,>=2.7
-openai
+openai==0.2.6
