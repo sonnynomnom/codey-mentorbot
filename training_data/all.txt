@@ -1,0 +1,78 @@
+Codecademy Pro
+Codecademy Pro contains everything in Basic, plus all the advanced tools and content that you need to make your learning faster and more efficient.
+
+What is Codecademy Pro?
+Codecademy Pro contains everything in Basic, plus all the advanced tools and content that you need to make your learning faster and more efficient. It is $19.99 a month billed yearly. Or $39.99 monthly. You should check it out if you don't have it already! Find out more at www.codecademy.com/pricing 
+
+When was Codecademy built?
+Codecademy is an American online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, Swift, and Sass, as well as markup languages HTML and CSS.
+
+How much is Codecademy Pro?
+Codecademy Pro is $19.99 a month billed yearly. Or $39.99 monthly. Find out more at https://www.codecademy.com/pricing
+
+Do you offer a student discount?
+Yes! Eligible college students can join Codecademy Pro Student. It’s an annual membership with all the same features as Codecademy Pro, but for over 35% off the regular price (that’s $149.99/year in the U.S.). Find out more at https://www.codecademy.com/pricing
+
+How do I cancel my subscription?
+You can cancel your Codecademy Pro account anytime, by visiting the “Account Settings” page. You can also pause your subscription if you need to take a break.
+
+Is Codecademy suitable for children?
+Yep! Codecademy is suitable for children who can read and type. Coding is just like learning a new language or studying math. Children who learn to code when they’re young can set themselves up for a lifetime of opportunities for success. Users under the age of 13 must receive parental permission before creating an account as per our Terms of Service.
+
+What is a Codecademy Path?
+Paths are structured curriculum roadmaps that show you exactly where to start and what to learn next. We have Career Paths that teach the core skills of Computer Science, Data Science, and Web Development, as well as Skill Paths focused on more specialized, shorter-term goals. If you’re not sure where to start, we have a path for that too.
+
+Why should I upgrade to Codecademy Pro?
+We built Codecademy Pro based on the lessons we’ve learned from teaching over 45 million people to code since 2011. If you’re ready to accelerate your learning and apply those skills to real-world scenarios, the Codecademy Pro is for you. Pro not only teaches you coding skills, but how to use those skills.
+
+Do I need to know how to code before signing up?
+Nope! Most of our users have zero experience when they sign up. Our curriculum is designed to teach anyone to learn to code.
+
+What is the difference between Basic and Codecademy Pro?
+Codecademy Pro contains everything in Basic, plus all the advanced tools and content that you need to make your learning faster and more efficient. Pro provides you with hundreds of additional exercises, practice packs, and quizzes to help you sharpen your coding skills. Pro also contains real-world projects that train you to apply the skills you are learning in realistic scenarios.
+
+Who is the Codecademy CEO?
+Mr. Moneybag Zachary Sims 💰
+
+Where is Codecademy located?
+In the heart of SoHo in New York City 🗽
+
+Where is Codecademy?
+Our HQ is in New York City but our amazing learners like yourself are from all over the world! 🌎
+
+When is Codecademy founded?
+August 2011 in a Y Combinator batch. www.ycombinator.com
+
+How many employees does Codecademy have?
+About 150! 👩‍❤️‍💋‍👩
+
+Is Codecademy hiring?
+Yes, we are! www.codecademy.com/about/careers
+
+What should I learn on Codecademy?
+Well what do you want to build? If it's web apps -> HTML, CSS, JavaScript, React. If it's data -> Python or R. If it's mobile apps -> Swift. If it's games -> Phaser.js.
+
+How can I renew my Codecademy for Business plan?
+If you are a Codecademy for Business Account Manager, you can renew your existing plan from your Account Management portal. There is now a “Renew Your Plan Today” link underneath your Company Name in your Account Management portal. Clicking this link will take you to a checkout page that is pre-populated with your existing pricing and seat amount. This link can be shared with anyone at your company, if you require someone else to process payment. You do not need to have a Codecademy account to access this page. The “Renew Your Plan Today” link will appear 60 days before your plan expires. After completing payment, you will receive an automated email with an invoice and your plan will be renewed for another year.
+
+Do Account Managers have access to Codecademy for Business?
+One Account Manager will be provided full access to Codecademy for Business at no extra charge. An additional account (also referred to as a "seat" within the tool) has been provided to your plan for the Account Manager to use. For further assistance with the Business Account Management tool, please contact your Codecademy Account Representative directly or email enterprise@codecademy.com. 
+
+What is Codecademy for Campus?
+Our Codecademy for Campus product is available for higher ed educators who'd like to share Codecademy with their students. For more information, please email max@codecademy.com or submit a request through our Campus page.
+
+What is Codecademy for High Schools?
+Codecademy has partnered with Clever to offer free access to Codecademy Pro for US high school educators, administrators, and their students (13 years of age or older). To sign up, visit https://clever.com/library/codecademy. To learn more about how to add a new app to your Clever Library, please see Clever’s Help Center.
+
+Is there a Free Trial for Codecademy Business?
+If interested in our Codecademy for Business products, we offer a 14-day free trial for you and your team to test out our platform.  If interested, please submit a request via our Codecademy for Business page and our team will reach out shortly with more details on how to get this set up. 
+
+
+Is there a Free Trial for Codecademy Pro?
+Codecademy Pro includes members-only content, mobile app, quizzes, additional community support, and real-world projects. All new Codecademy accounts are eligible to receive a free trial of Codecademy Pro to use within the first 7 days of account ownership. A valid credit or debit card is required to receive a trial, and accounts are charged after day 7 of the trial. 
+
+What's the difference between Codecademy Pro and a bootcamp?
+Codecademy Pro and bootcamps are both great ways to learn how to code.  The difference between the two is the time commitment and the type of instruction you receive. Codecademy Pro is designed to be much more self-directed than a bootcamp is. With Codecademy Pro, you can work through the material at your own pace and you can also choose your learning path with content that matches your goals and projects. Bootcamps are typically 12-16 week full-time courses that in-depth instruction and total immersion in the skills that you are learning. We know that not everyone has the option of learning to code full time for 3-4 months. With Codecademy Pro, you can work through the content at your own pace and on your schedule!
+
+Does Codecademy off Certificates of Completion?
+Absolutely! You will receive a personalized certificate of completion once you have fully finished a course or Path on our site while being a Pro member. Once rewarded, you will be able to add your full name to the certificate directly.  You will be able to access and download your certificate at any time on your My Profile page (accessed by clicking your avatar). 
