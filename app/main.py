@@ -1,5 +1,5 @@
 from chatterbot import ChatBot
-from chatbot import chatbot
+from chatbot import cs_chatbot
 from chatbot import gpt_chatbot
 from flask import Flask, render_template, request
 
@@ -29,7 +29,7 @@ def get_bot_response():
 
     if any (inquery in userText for inquery in customer_support):
       # use hardcoded
-      return str(chatbot.get_response(userText))
+      return str(cs_chatbot.get_response(userText))
     else:
       # use gtp-3
       return str(gpt_chatbot(userText)) 

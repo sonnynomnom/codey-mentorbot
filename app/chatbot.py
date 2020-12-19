@@ -8,7 +8,7 @@ import json
 import openai
 
 # Creating ChatBot Instance
-chatbot = ChatBot(
+cs_chatbot = ChatBot(
     'CoronaBot',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
