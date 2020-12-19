@@ -30,11 +30,11 @@ training_data_personal = open('../training_data/all.txt').read().splitlines()
 
 training_data = training_data_simple + training_data_personal
 
-trainer = ListTrainer(chatbot)
+trainer = ListTrainer(cs_chatbot)
 trainer.train(training_data)
 
 # Training with English Corpus Data 
-trainer_corpus = ChatterBotCorpusTrainer(chatbot)
+trainer_corpus = ChatterBotCorpusTrainer(cs_chatbot)
 
 
 # chatbot.py Camelia
