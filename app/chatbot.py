@@ -1,4 +1,4 @@
-# import config
+import config
 
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
@@ -39,7 +39,7 @@ trainer_corpus = ChatterBotCorpusTrainer(cs_chatbot)
 
 # chatbot.py Camelia
 
-openai.api_key = api_key #os.getenv("API_KEY")
+openai.api_key = config.api_key #os.getenv("API_KEY")
 
 def gpt_chatbot(question):
 
