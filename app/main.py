@@ -31,8 +31,8 @@ cs_chatbot = ChatBot(
 )
 
  # Training with Personal Ques & Ans 
-training_data_simple = open('https://raw.githubusercontent.com/sonnynomnom/codey-mentorbot/main/app/training_data/normal.txt').read().splitlines()
-training_data_personal = open('https://raw.githubusercontent.com/sonnynomnom/codey-mentorbot/main/app/training_data/all.txt').read().splitlines()
+training_data_simple = open(url_for('training_data', filename='normal.txt')).read().splitlines()
+training_data_personal = open(url_for('training_data', filename='all.txt')).read().splitlines()
 
 training_data = training_data_simple + training_data_personal
 
