@@ -4,7 +4,7 @@ import os
 # from scripts.chatbot import gpt_chatbot
 from flask import Flask, render_template, request
 
-import config
+# import config
 
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
