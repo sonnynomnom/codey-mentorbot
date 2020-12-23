@@ -1,6 +1,6 @@
 from chatterbot import ChatBot
-from chatbot import cs_chatbot
-from chatbot import gpt_chatbot
+from scripts.chatbot import cs_chatbot
+from scripts.chatbot import gpt_chatbot
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
